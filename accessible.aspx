@@ -20,6 +20,5 @@
 <asp:Content ID="Content8" ContentPlaceHolderID="phMainContent" Runat="Server">
     <br /><br />
     Sorry, but you do not have sufficient rights to view this page.
-    Sorry, but you do not have sufficient rights to view this page.
-    Sorry, but you do not have sufficient rights to view this page.    
+    Sorry, but you do not have sufficient rights to view this page.   
 </asp:Content>
